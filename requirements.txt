@@ -1,0 +1,5 @@
+requests==2.24.0
+pyquery==1.4.1
+urllib3==1.25.10
+pandas==1.1.2
+numpy==1.19.2
